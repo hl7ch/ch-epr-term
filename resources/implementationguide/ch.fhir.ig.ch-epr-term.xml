@@ -192,5 +192,19 @@
       <code value="generate-turtle"/>
       <value value="false"/>
     </parameter>
+
+    <resource>
+      <reference>
+        <reference value="StructureDefinition/ch-epr-term-documentreference"/>
+      </reference>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <reference>
+        <reference value="DocumentReference/Docu"/>
+      </reference>
+      <exampleCanonical value="http://fhir.ch/ig/ch-epr-term/StructureDefinition/ch-epr-term-documentreference"/>
+    </resource>
+
   </definition>
 </ImplementationGuide>

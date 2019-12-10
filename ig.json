@@ -6,7 +6,8 @@
   "npm-name": "ch.fhir.ig.ch-epr-term",
   "paths": {
     "resources": [
-      "resources"
+      "resources",
+      "examples"
     ],
     "pages": "pages",
     "temp": "temp",
